@@ -1,3 +1,4 @@
-let boxStore1 = 20.1;
+const City = creatingCity();
+const Medellin = new City(3900, 'Industriales', 'Salgado Ilarraza', ['Viva', 'Mayorca'], 3099920);
 
-console.log(!Number.isInteger(boxStore1));
+console.log(Medellin.getCenter);

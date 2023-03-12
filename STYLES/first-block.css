@@ -1,0 +1,16 @@
+.main-info{
+    background-color: var(--blue-grotto);
+    align-content: center;
+    padding: 1rem;
+}
+
+.main-info h1{
+    text-align: center;
+}
+
+#viewElements{
+    border: 1rem;
+    border-radius: 10%;
+    align-content: center;
+    background-color: var(--blue-basic);
+}
